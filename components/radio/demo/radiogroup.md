@@ -20,7 +20,7 @@ const RadioGroup = Radio.Group;
 
 class App extends React.Component {
   state = {
-    value: 1,
+    value: 2,
   };
 
   onChange = e => {
